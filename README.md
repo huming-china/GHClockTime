@@ -1,4 +1,1 @@
-# UnicodeToChina
-# UnicodeToChina
-# CodeAdd
 # GHClockTime
